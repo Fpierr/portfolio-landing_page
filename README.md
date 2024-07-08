@@ -1,5 +1,3 @@
-# Landing Page
-
 # Portfolio Project Landing Page
 ### By [Fanuel PIERRE](https://www.github.com/Fpierr)
 
@@ -30,7 +28,7 @@ The landing page highlights for key features of our application:
 ## About
 This project was inspired by our desire to create an application that will be useful to the professional community, to solve a major problem. This part is well described in the About section of the Landing page. Go to explore.
 
-# Team Members
+# Author:
 [Fanuel PIERRE](https://www.github.com/Fpierr)
 
 [LinkedIn](https://www.linkedin.com/in/fanuel-pierre-160600259/)
