@@ -33,3 +33,5 @@ This project was inspired by our desire to create an application that will be us
 
 [LinkedIn](https://www.linkedin.com/in/fanuel-pierre-160600259/)
 [Link to the project's GitHub repository](https://github.com/Fpierr/portfolio-landing_page)
+[Link to the Landing Page](https://fpierr.github.io/portfolio-landing_page/)
+
