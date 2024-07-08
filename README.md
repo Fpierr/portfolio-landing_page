@@ -1,6 +1,9 @@
 # Portfolio Project Landing Page
 ### By [Fanuel PIERRE](https://www.github.com/Fpierr)
 
+[Link to the Landing Page](https://fpierr.github.io/portfolio-landing_page/)
+
+
 ## Description
 This project is a landing page for Fanuel's Portfolio project at Holberton School. The page showcases the main features of the application, provides an introduction to the project, and includes information about the author.
 
@@ -34,6 +37,4 @@ This project was inspired by our desire to create an application that will be us
 [LinkedIn](https://www.linkedin.com/in/fanuel-pierre-160600259/)
 
 [Link to the project's GitHub repository](https://github.com/Fpierr/portfolio-landing_page)
-
-[Link to the Landing Page](https://fpierr.github.io/portfolio-landing_page/)
 
