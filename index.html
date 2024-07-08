@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExtraLink</title>
+    <link rel="icon" href="image/favicon.ico" type="image/favicon.png">
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+
+<div class="header">
+    <ul class="nav">
+        <li><a href="#intro">Home</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#about">About Us</a></li>
+    </ul>
+</div>
+
+<div class="intro" id="intro">
+    <h1>Welcome to ExtraLink</h1>
+    <p>The application that offers the possibility to connect with students and professionals worldwide to share experiences. You can also find Associations and Consulting Firms.</p>
+    <div class="center-content">
+        <img src="image/logoExtralink.png" alt="ExtraLink Logo" class="logo">
+        <button class="button" id="showApplicationButton">Show the Application</button>
+    </div>
+</div>
+
+<div id="videoModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <video id="appVideo" width="600" controls>
+            <source src="videos/video_app.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
+
+<div class="section" id="features">
+    <h2>Features</h2>
+    <div class="carousel-container">
+        <button class="prev">&#10094;</button>
+        <div class="carousel">
+            <div class="feature">
+                <img src="image/cover_app.png" alt="Feature 1">
+                <h3>Cover Page</h3>
+                <p>Description.</p>
+            </div>
+            <div class="feature">
+                <img src="image/login_page.png" alt="Feature 2">
+                <h3>Login Page</h3>
+                <p>Description.</p>
+            </div>
+            <div class="feature">
+                <img src="image/home_page.png" alt="Feature 3">
+                <h3>Home Page</h3>
+                <p>Description.</p>
+            </div>
+            <div class="feature">
+                <img src="image/menu_lateral.png" alt="Feature 4">
+                <h3>Lateral Menu Page</h3>
+                <p>Description.</p>
+            </div>
+        </div>
+        <button class="next">&#10095;</button>
+    </div>
+</div>
+
+<div class="section about" id="about">
+    <h2>About Us</h2>
+    <p>This project was inspired by Fanuel Pierre, a Software Engineering student at Holberton School. The idea stems from a significant problem, particularly the brain drain caused by globalization and migration when millions of people move for educational, professional, or personal reasons. Additionally, students face difficulties in their personal or academic projects and career guidance. Fanuel saw the necessity of having this skills exchange platform. The objective of this project is to centralize academic, professional, and commercial exchanges.</p>
+    <h3>Team</h3>
+    <ul>
+        <li>
+            <strong>Team Member 1</strong>
+            <a href="https://www.linkedin.com/in/fanuel-pierre-160600259/">LinkedIn</a> |
+            <a href="https://github.com/Fpierr">GitHub</a> |
+            <a href="https://twitter.com/">Twitter</a>
+        </li>
+    </ul>
+    <p><a href="https://github.com/Fpierr/portfolio/tree/main/ExtraLink/extralink">Link to the GitHub repository</a></p>
+</div>
+
+<div class="footer">
+    <p>&copy; 2024 ExtraLink. All rights reserved.</p>
+    <p><a href="mailto:info.extralink@gmail.com">Contact Us</a></p>
+</div>
+
+<script src="scripts/script.js"></script>
+</body>
+</html>
