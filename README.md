@@ -1,7 +1,7 @@
 # Portfolio Project Landing Page
 ### By [Fanuel PIERRE](https://www.github.com/Fpierr)
 
-[Link to the Landing Page](https://fpierr.github.io/portfolio-landing_page/)
+[Clic here to show the Landing Page](https://fpierr.github.io/portfolio-landing_page/)
 
 
 ## Description
