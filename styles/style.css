@@ -35,6 +35,10 @@ body {
     font-weight: bold;
 }
 
+.header .nav a:hover {
+    color: #FF11DE;
+}
+
 .intro {
     text-align: center;
     padding: 150px 20px;
@@ -51,6 +55,20 @@ body {
     font-size: 24px;
     margin: 0 0 40px;
 }
+
+.intro a {
+    color: white;
+    /*text-decoration: none;  Supprime le soulignement */
+    font-weight: bold;
+    transition: color 0.3s ease;
+    margin-top: 25px;
+    display: inline-block;
+}
+
+.intro a:hover {
+    color: #FF11DE;
+}
+
 
 .center-content {
     display: flex;
@@ -199,6 +217,9 @@ body {
     font-weight: bold;
 }
 
+.about a:hover {
+    color: #FF11DE;
+}
 .footer {
     background-color: rgba(40, 44, 52, 0.8);
     color: white;
@@ -209,4 +230,8 @@ body {
 .footer a {
     color: #4CAF50;
     text-decoration: none;
+}
+
+.footer a:hover {
+    color: #FF11DE;
 }
