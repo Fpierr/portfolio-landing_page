@@ -15,6 +15,10 @@ const showSlide = (index) => {
     }
 }
 
+setInterval(() => {
+    showSlide(currentIndex + 1);
+}, 3000);
+
 const prevButton = document.querySelector('.prev');
 const nextButton = document.querySelector('.next');
 
